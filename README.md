@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiletGK
+- 👋 Hi, I’m MiletGK
 - 👀 I’m interested in AE
 - 🌱 I’m currently learning Data Construction
 - 💞️ I’m looking to collaborate on ...
