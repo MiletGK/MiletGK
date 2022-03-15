@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MiletGK
-- 👀 I’m interested in AE
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning Data Construction
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Wechat
